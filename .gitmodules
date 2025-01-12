@@ -1,3 +1,6 @@
 [submodule "ucm_cs5300_advanced_algorithms"]
 	path = ucm_cs5300_advanced_algorithms
 	url = git@github.com:tradelunch/ucm_cs5300_advanced_algorithms.git
+[submodule "ucm_cs5700_artificial_intelligence"]
+	path = ucm_cs5700_artificial_intelligence
+	url = git@github.com:tradelunch/ucm_cs5700_artificial_intelligence.git
