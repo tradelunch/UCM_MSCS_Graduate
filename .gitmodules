@@ -4,3 +4,6 @@
 [submodule "ucm_cs5700_artificial_intelligence"]
 	path = ucm_cs5700_artificial_intelligence
 	url = git@github.com:tradelunch/ucm_cs5700_artificial_intelligence.git
+[submodule "ucm_cs5220_adv_application_programming_in_java"]
+	path = ucm_cs5220_adv_application_programming_in_java
+	url = git@github.com:tradelunch/ucm_cs5220_adv_application_programming_in_java.git
