@@ -7,3 +7,9 @@
 [submodule "ucm_cs5220_adv_application_programming_in_java"]
 	path = ucm_cs5220_adv_application_programming_in_java
 	url = git@github.com:tradelunch/ucm_cs5220_adv_application_programming_in_java.git
+[submodule "ucm_cs5900_compiler_design_construction"]
+	path = ucm_cs5900_compiler_design_construction
+	url = git@github.com:tradelunch/ucm_cs5900_compiler_design_construction.git
+[submodule "ucm_cs5720_neural_network"]
+	path = ucm_cs5720_neural_network
+	url = git@github.com:tradelunch/ucm_cs5720_neural_network.git
